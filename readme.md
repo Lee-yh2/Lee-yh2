@@ -6,6 +6,6 @@
 ![(Lee-yh2)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-yh2)
 
 ## Tech Stacks
-
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Projects
