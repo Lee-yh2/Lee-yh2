@@ -16,6 +16,8 @@
 ![Jpa](https://img.shields.io/badge/Jpa-007396?style=for-the-badge&logo=Java&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
 ## Projects
 </div>
